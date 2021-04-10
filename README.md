@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 👯 欢迎大家与我交流，一起成长
 - 🤔 状态：寻找实习中...
 - 💬 微信: k11737
-- 📫 Email：1173779946@qq.com
+- 📫 Email：1173779946#qq.com(#换成@)
 - 😄 Pronouns: 一起加油努力吧！！
 
-[![laowenruo's GitHub stats](https://github-readme-stats.vercel.app/api?username=laowenruo&show_icons=true&theme=dracula)](https://github.com/laowenruo/)
+[![laowenruo's GitHub stats](https://github-readme-stats.vercel.app/api?username=laowenruo&show_icons=true)](https://github.com/laowenruo/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laowenruo)](https://github.com/laowenruo)
