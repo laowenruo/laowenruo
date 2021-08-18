@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - 💬 微信: k11737
 - 📫 Email：1173779946#qq.com(#换成@)
 - 😄 Pronouns: 一起加油努力吧！！
+- 🌧️ 个人博客：https://www.isbut.cn/ （未备案，可能有点慢）
 
 [![laowenruo's GitHub stats](https://github-readme-stats.vercel.app/api?username=laowenruo&show_icons=true)](https://github.com/laowenruo/)
