@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 一起加油努力吧！！
 - 🌧️ 个人博客：https://www.isbut.cn/ 
 - 🤦 微信公众号：学编程的文若
+- 👨‍🦯 不定期分享技术干货
 
 [![laowenruo's GitHub stats](https://github-readme-stats.vercel.app/api?username=laowenruo&show_icons=true)](https://github.com/laowenruo/)
